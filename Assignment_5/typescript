@@ -1,0 +1,8 @@
+Script started on 2024-04-19 11:42:45+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="199" LINES="12"]
+[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_5[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_5[00m$ gcc get.c -o get
+[?2004l[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_5[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_5[00m$ gcc get.c -o get./gpt google.comgcc get.c -o get[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./get example.com
+[?2004lHTML content saved as index.html
+[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_5[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_5[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-19 11:43:05+05:30 [COMMAND_EXIT_CODE="0"]

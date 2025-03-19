@@ -1,0 +1,10 @@
+Script started on 2024-04-06 10:41:24+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="96" LINES="40"]
+[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_4[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_4[00m$ exit./server -i 127.0.0.1 -p 40000 -c 50[14Pgcc server.c -o server./server -i 127.0.0.1 -p 40000 -c 50exit[K[Kgcc client.c -o client
+[?2004l[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_4[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_4[00m$ gcc client.c -o clientexit[Kgcc client.c -o client[Kgcc client.c -o clientexit[K./server -i 127.0.0.1 -p 40000 -c 50[14Pgcc server.c -o serverexit[K./client -s 127.0.0.1 -p 40000[2PClient's port numbber: 60500./client -s 127.0.0.1 -p 40000
+[?2004lClient's port numbber: 45138
+Enter a number: 50
+Number received from server: 100
+[?2004h]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_4[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_4[00m$ [K]0;noobcodezz@pop-os: ~/Downloads/2022A7PS0040G_assignment_4[01;32mnoobcodezz@pop-os[00m:[01;34m~/Downloads/2022A7PS0040G_assignment_4[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-06 10:42:34+05:30 [COMMAND_EXIT_CODE="0"]

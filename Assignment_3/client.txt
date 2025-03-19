@@ -1,0 +1,14 @@
+Script started on 2024-03-22 11:29:28+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="53" LINES="18"]
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ exit[K[K[K[Kgcc client .c -o cleint[K[K[K[Kient
+[?2004l[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ ./client - s 127.0.0.1 -p 40000
+[?2004lClient's port numbber: 53702
+Enter a number: 5
+Number received from server: 50
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ ./client -s 127.0.0.1 -p 40000
+[?2004lClient's port numbber: 43548
+Enter a number: 65
+Number received from server: 70
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ exit
+[?2004lexit
+
+Script done on 2024-03-22 11:30:31+05:30 [COMMAND_EXIT_CODE="0"]

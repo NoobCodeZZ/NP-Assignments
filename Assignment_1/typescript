@@ -1,0 +1,20 @@
+Script started on 2024-02-10 05:40:28+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="87" LINES="19"]
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/2022A7PS0040G_assignment_1[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/2022A7PS0040G_assignment_1[00m$ exitgcc 2022A7PS0040G_assignment_1.c -o 2022A7PS0040G_assignment_1.c[A]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/2022A7PS0040G_assignment_1[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/2022A7PS0040G_assignment_1[00m$ [5P./Assignment
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc 2022A7PS0040G_assignment_1.c -o 2022A7PS0040G_assignment_1.c[K[K
+[?2004l[01m[K2022A7PS0040G_assignment_1.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[K2022A7PS0040G_assignment_1.c:30:21:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kwait[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   30 |                     [01;35m[Kwait[m[K(0);
+      |                     [01;35m[K^~~~[m[K
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/2022A7PS0040G_assignment_1[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/2022A7PS0040G_assignment_1[00m$ ./2022a7[K[KA7S[KPS0040G_a ssignment_1
+[?2004lThis is the Parent process: pid=14121 
+This is the Child process: pid=14122
+This is the Grandchild process : pid = 14136 
+The grandchild process is exiting 
+This is the Child process. The Grandchild process : pid = 14136 has exited 
+The child process is exiting 
+This is the Parent process. The Child process : pid=14122 has exited 
+This is the Parent process: pid=14121 
+ exiting[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/2022A7PS0040G_assignment_1[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/2022A7PS0040G_assignment_1[00m$ exit
+[?2004lexit
+
+Script done on 2024-02-10 05:41:03+05:30 [COMMAND_EXIT_CODE="0"]

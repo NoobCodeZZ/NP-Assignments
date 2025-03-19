@@ -1,0 +1,16 @@
+Script started on 2024-03-22 11:29:48+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="38" LINES="18"]
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ gcc server.c -o server
+[?2004l[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ ./server -i 127.0.0.1 -p 40000
+[?2004lIP address: 127.0.0.1
+Port number: 40000
+Number received from client: 5
+Enter second number: 45
+Sending the number: 50
+Number received from client: 65
+Enter second number: 5
+Sending the number: 70
+^C
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/netprog[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/netprog[00m$ exit
+[?2004lexit
+
+Script done on 2024-03-22 11:30:34+05:30 [COMMAND_EXIT_CODE="130"]

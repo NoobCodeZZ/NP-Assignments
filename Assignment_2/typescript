@@ -1,0 +1,26 @@
+Script started on 2024-02-20 10:09:37+05:30 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="125" LINES="10"]
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/Ass2[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/Ass2[00m$ exit./2022A7PS0040G_assignment_2[14Passignment_22022A7PS0040G_assignment_2[14Passignment_2gcc 2022A7PS0040G_assignment_2.c -o 2022A7PS0040G_assignment_2
+[?2004l[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/Ass2[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/Ass2[00m$ gcc 2022A7PS0040G_assignment_2.c -o 2022A7PS0040G_assignment_2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K./2022A7PS0040G_assignment_2
+[?2004lThis is the Parent process: pid=12708 
+User Input to the parent : 1
+
+This is the Child process : pid=12709
+Child received integer : 1, from the parent process
+User input to the child : 2
+
+This is the Grandchild process : pid = 12770 
+Grandchild received integer : 3, from the child process
+User input to the grandchild : 3
+This is the grandchild process : pid = 12770 exiting 
+
+This is the child process : pid = 12709
+Integer received from grandchild : 6 
+This is the child process : pid = 12709, exiting 
+
+This is the parent process : pid = 12708
+Integer received from child : 6 
+This is the parent process : pid = 12708 exiting
+[?2004h]0;noobcodezz@noobcodezz: ~/Downloads/NetProg/Ass2[01;32mnoobcodezz@noobcodezz[00m:[01;34m~/Downloads/NetProg/Ass2[00m$ exit
+[?2004lexit
+
+Script done on 2024-02-20 10:10:01+05:30 [COMMAND_EXIT_CODE="0"]
